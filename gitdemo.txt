@@ -1,9 +1,0 @@
-Tạo 1 github reponstory(folder) - nơi chứa code
-clone project này: git clone your-link-https
-Code :
-  git status (kiểm tra trạng thái file)
-  git add .   (thêm file)
-  git commit -m "your mesage" (tạo nội dung commit)
-  git branch....
-  git remote add origin <link>///
-  git push origin main
